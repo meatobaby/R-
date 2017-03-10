@@ -2,7 +2,7 @@
 
 - **作业要求**
 
-> _点击这个[链接](https://github.com/xkdog/xkdog.github.io/blob/master/_posts/2017-02-12-Rhigher-00.md)_，用自己的账号登陆`github`，在本文档的最后，按我提供的方式*提供自己的姓名学号*等信息。
+> _点击这个_[链接](https://github.com/xkdog/xkdog.github.io/blob/master/_posts/2017-02-12-Rhigher-00.md)，用自己的账号登陆`github`，在本文档的最后，按我提供的方式*提供自己的姓名学号*等信息。
 
 > **注意`Markdown`语言中的表格语法**。
 
